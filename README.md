@@ -24,7 +24,7 @@ This is a Console Application that simulates the core functions of ASK.FM platfo
 ![App Screenshot](https://www.linkpicture.com/q/4_1.png)
 
 
-- When Ali login he will be able to see Youssef's question and he cam answer it too
+- When Ali login he will be able to see Youssef's question and he can answer it too
 
 ![App Screenshot](https://www.linkpicture.com/q/5_1.png)
 
