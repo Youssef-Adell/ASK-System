@@ -33,5 +33,5 @@ This is a Console Application that simulates the core functions of ASK.FM platfo
 ![App Screenshot](https://www.linkpicture.com/q/7_380.png)
 
 - The Feed Page where all users questions are showen
-- 
+
 ![App Screenshot](https://www.linkpicture.com/q/9_256.png)
