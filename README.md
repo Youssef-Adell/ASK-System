@@ -1,7 +1,8 @@
 
 # ASK System
 
-This is a Console Application that simulates the core functions of ASK.FM platform which enable users to send question to each others and so on.
+This is a Console application in C++ simulates basic functions of ASK.FM platform that 
+enables users to send questions to each other etc.
 
 
 
